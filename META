@@ -1,1 +1,1 @@
-depends:easy_format,lib_biniou
+depends:lib_easy_format,lib_biniou
