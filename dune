@@ -2,7 +2,7 @@
 
 (alias
   (name plugin)
-  (deps plugin_lib_yojson.cmxs)
+  (deps (file META) plugin_lib_yojson.cmxs)
 )
 
 (executable
