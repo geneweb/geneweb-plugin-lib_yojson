@@ -8,6 +8,6 @@
 (executable
   (name plugin_lib_yojson)
   (embed_in_plugin_libraries yojson)
-  (flags -linkall)
+  (flags (:standard -linkall))
   (modes (native plugin))
 )
